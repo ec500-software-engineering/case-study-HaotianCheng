@@ -1,2 +1,2 @@
-# case-study-HaotianCheng
-case-study-HaotianCheng created by GitHub Classroom
+# case-study: TensorFlow (by Haotian Cheng)
+TensorFlow is a software application for us to implement neural networks algorithms which is the most important part in machine learning. In this case study, I am going to analyze TensorFlow package through several aspects. They are Technology and Platform used for development, integration tests and the test framework and software architecture in the project. In the end, I am going to analyze two defects in the TensorFlow GitHub issue page and attached with my own application to show how TensorFlow is used.
