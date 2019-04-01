@@ -26,4 +26,4 @@ In short, Developers edits and defines the flow graph in Client. Client sends a 
 * Issue #27315
 Simple version upgrade for this one.
 
-
+![alt text](https://raw.githubusercontent.com/ec500-software-engineering/case-study-HaotianCheng/master/issue27315.png)
