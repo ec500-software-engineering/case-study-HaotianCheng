@@ -23,6 +23,7 @@ In short, Developers edits and defines the flow graph in Client. Client sends a 
 
 # Defects:
 
-* issue #27315
+* Issue #27315
+Simple version upgrade for this one.
 
 
