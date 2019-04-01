@@ -14,5 +14,5 @@ Second, TensorFlow uses Continuous Integration to ensure that any new changes wo
 
 Third, developers can conveniently use TensorFlow from external projects by builds the computation graph themselves after understanding the basics of convolutional neural network. This is based on the software architecture of TensorFlow that users can define and edit the dataflow graph directly at the Client and the Distributed Master would convert the graph you build to pieces that worker services can understand and do the real work. Therefore, it makes TensorFlow lean more towards functional components. To increase the accuracy of projects, developers could edit the weights and bias or add more layers to the neural network and etc. There are a lot of choices that TensorFlow provides which can make the neural network better at client. TensorFlow simplified architecture is shown below.
 
-![alt text](case-study-HaotianCheng/Project Architecture.png)    
+![alt text](https://raw.githubusercontent.com/ec500-software-engineering/case-study-HaotianCheng/master/Project%20Architecture.png)    
       
