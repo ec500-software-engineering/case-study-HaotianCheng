@@ -30,3 +30,5 @@ Simple version upgrade for this one.
 
 * Issue #27279 
 It is similar to the problem of Issue ##23399. Due to the input size difference, TFLite allocate tensors fails.
+
+![alt text](https://raw.githubusercontent.com/ec500-software-engineering/case-study-HaotianCheng/master/issue27279.png)
