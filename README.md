@@ -35,6 +35,6 @@ It is similar to the problem of Issue ##23399. Due to the input size difference,
 
 # Demo:
 
-This simple demo(simply run main.py) uses the database called the MNIST dataset which contains a total of 70000 examples of handwritten digits 0-9 28x28-pixel images. By using TensorFlow as a machine learning library, I constructed a convolutional neural networks with two convolutional layers and two pooling layers one by one, plus one dense layer and one logits layer at the end. After 21 epochs training progress, the accuracy reached to 0.9897 which is a totally acceptable.
+This simple demo(simply run main.py) uses the database called the MNIST dataset which contains a total of 70000 examples of handwritten digits 0-9 28x28-pixel images. By using TensorFlow as a machine learning library, I constructed a convolutional neural networks with two convolutional layers and two pooling layers one by one, plus one dense layer and one logits layer at the end. After 21 epochs training progress, the accuracy reached to 0.9897 which is a totally acceptable result.
 
 ![alt text](https://raw.githubusercontent.com/ec500-software-engineering/case-study-HaotianCheng/master/Training%20results.png)
