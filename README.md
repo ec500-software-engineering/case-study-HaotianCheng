@@ -1,6 +1,6 @@
 # Case-study: TensorFlow (by Haotian Cheng)
 
-TensorFlow is a software application for us to implement neural networks algorithms which is the most important part in machine learning. In this case study, I am going to analyze TensorFlow package through several aspects. They are Technology and Platform used for development, integration tests and the test framework and software architecture in the project. In the end, I am going to analyze two defects in the TensorFlow GitHub issue page and attached with my own application to show how TensorFlow is used.
+TensorFlow is a software application for us to implement neural networks algorithms which is the most important part in machine learning. In this case study, I am going to analyze TensorFlow package through several aspects. They are Technology and Platform used for development, integration tests and the test framework and software architecture in the project. In the end, I am going to analyze two defects in the TensorFlow GitHub issue page and attached with my demo to show how TensorFlow is used.
 
 # Technology and Platform used:
 
@@ -32,3 +32,7 @@ Simple version upgrade for this one.
 It is similar to the problem of Issue ##23399. Due to the input size difference, TFLite allocate tensors fails.
 
 ![alt text](https://raw.githubusercontent.com/ec500-software-engineering/case-study-HaotianCheng/master/issue27279.png)
+
+# Demo:
+
+This simple demo(simply run main.py) uses the database called the MNIST dataset which contains a total of 70000 examples of handwritten digits 0-9 28x28-pixel images. By using TensorFlow as a machine learning library, I constructed a convolutional neural networks with two convolutional layers and two pooling layers one by one, plus one dense layer and one logits layer at the end. After 21 epochs training progress, the accuracy reached to 0.9897 which is higher than the result of the example provided by TensorFlow official website.
